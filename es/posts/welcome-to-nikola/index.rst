@@ -7,11 +7,6 @@
 .. description:
 .. category: nikola
 
-.. figure:: https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg
-   :target: https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1
-   :class: thumbnail
-   :alt: Nikola Tesla Corner by nicwest, on Flickr
-
 If you can see this in a web browser, it means you managed to install Nikola,
 and build a site using it. Congratulations!
 
