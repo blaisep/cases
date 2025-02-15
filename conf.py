@@ -161,7 +161,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "canterville"
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
 # as an accent color (the default ones don’t). Must be a HEX value.
@@ -1411,7 +1411,12 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    'TWITTER_URL': 'https://fosstodon.org/@blaise',
+    'GITHUB_URL': 'https://github.com/blaisep',
+    'LINKEDIN_URL': 'https://linkedin.com/in/blaisepabon',
+    'BANNER_URL': '/assets/img/silk-road.jpg'
+}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
