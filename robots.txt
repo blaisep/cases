@@ -1,0 +1,4 @@
+Sitemap: https://blog.blaisepabon.com/sitemapindex.xml
+
+User-Agent: *
+Host: blog.blaisepabon.com
