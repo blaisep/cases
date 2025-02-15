@@ -1030,6 +1030,7 @@ COMMENT_SYSTEM = ""
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
+# For Discourse, it's the forum instance (must be world-accessible) and have a trailing slash.
 COMMENT_SYSTEM_ID = ""
 
 # Create index.html for page folders?
